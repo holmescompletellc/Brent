@@ -1,0 +1,6 @@
+{
+  "name": "Maintenance Path",
+  "description": "Industrial Maintenance Learning & Training Center with interactive skill trees, 7-stage lessons, equipment simulators, troubleshooting missions, Path Mentor AI, and career readiness tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
